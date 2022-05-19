@@ -6,6 +6,13 @@ Herramienta para encontrar buckets S3 publicos
 
 Herramienta basada en https://github.com/eth0izzle/bucket-stream
 
+## Build
+
+Para construir el Dockerfile:
+```bash
+docker build -t drxmknight/bucket-stream .
+```
+
 ## Ejecucion
 
 Descargar y bajar el contenedor con:
